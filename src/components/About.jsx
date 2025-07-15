@@ -28,6 +28,7 @@ export default function About() {
             </p>
           </div>
         </div>
+         <div className="mt-12 h-1 w-24 bg-gray-300 dark:bg-gray-600 rounded mx-auto" />
       </div>
     </section>
   );

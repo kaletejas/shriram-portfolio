@@ -6,4 +6,4 @@
 - ⚛️ React (with Vite)
 - 🎨 Tailwind CSS
 - 🔧 PostCSS & Autoprefixer
-- 🌐 Deployed via [Netlify / Vercel / GitHub Pages]
+- 🌐 Deployed via Vercel 
